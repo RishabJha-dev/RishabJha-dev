@@ -1,14 +1,12 @@
-## Hi there 👋
-
-# Rishab Kumar Jha
+# Rishab Kumar Jha 👋
 
 Computer Science undergraduate focused on building scalable, production-grade web systems and mastering algorithmic problem solving.
 
 - 💻 **Core Languages:** C++ (Algorithms & STL), TypeScript, JavaScript
 - 🛠️ **Full-Stack Stack:** Next.js, Node.js, Express, PostgreSQL, Tailwind CSS
 - 🎯 **Active Focus:** Striver’s A2Z DSA Sheet, competitive programming, and relational backend systems.
-- 📬 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/rishab-kumar-jha-66b004430/?isSelfProfile=true)
-- • [Email](mailto:rishabkumarjha180@gmail.com)
+- 📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/rishab-kumar-jha-66b004430/) • [Email](mailto:rishabkumarjha180@gmail.com)
+
 
 ---
 
