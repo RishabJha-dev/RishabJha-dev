@@ -17,8 +17,8 @@ Computer Science undergraduate focused on building scalable, production-grade we
 | Project / Repository | Focus Area | Stack |
 | :--- | :--- | :--- |
 | **[Promptify](https://github.com/RishabJha-dev/Promptify)** | Web Application & UI Architecture | TypeScript, Next.js, Tailwind CSS |
-| **[striver-a2z-dsa](https://github.com/RishabJha-dev/striver-a2z-dsa)** | Algorithmic Patterns & Complexity Analysis | C++17, STL |
-| **[leetcode-solutions](https://github.com/RishabJha-dev/leetcode-solutions)** | Contest Submissions & Unseen Problem Solving | C++17 |
+| **[striver-a2z-dsa](https://github.com/RishabJha-dev/striver-a2z-dsa)** | Algorithmic Patterns & Complexity Analysis | C++, STL |
+| **[leetcode-solutions](https://github.com/RishabJha-dev/leetcode-solutions)** | Contest Submissions & Unseen Problem Solving | C++ |
 | **[DSA-PRACTICE](https://github.com/RishabJha-dev/DSA-PRACTICE)** | University Coursework & Lab Implementations | C++ |
 
 ---
