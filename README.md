@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**RishabJha-dev/RishabJha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rishab Kumar Jha
 
-Here are some ideas to get you started:
+Computer Science undergraduate focused on building scalable, production-grade web systems and mastering algorithmic problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Core Languages:** C++ (Algorithms & STL), TypeScript, JavaScript
+- 🛠️ **Full-Stack Stack:** Next.js, Node.js, Express, PostgreSQL, Tailwind CSS
+- 🎯 **Active Focus:** Striver’s A2Z DSA Sheet, competitive programming, and relational backend systems.
+- 📬 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/rishab-kumar-jha-66b004430/?isSelfProfile=true)
+- • [Email](mailto:rishabkumarjha180@gmail.com)
+
+---
+
+### Engineering Showcase
+
+| Project / Repository | Focus Area | Stack |
+| :--- | :--- | :--- |
+| **[Promptify](https://github.com/RishabJha-dev/Promptify)** | Web Application & UI Architecture | TypeScript, Next.js, Tailwind CSS |
+| **[striver-a2z-dsa](https://github.com/RishabJha-dev/striver-a2z-dsa)** | Algorithmic Patterns & Complexity Analysis | C++17, STL |
+| **[leetcode-solutions](https://github.com/RishabJha-dev/leetcode-solutions)** | Contest Submissions & Unseen Problem Solving | C++17 |
+| **[DSA-PRACTICE](https://github.com/RishabJha-dev/DSA-PRACTICE)** | University Coursework & Lab Implementations | C++ |
+
+---
+
