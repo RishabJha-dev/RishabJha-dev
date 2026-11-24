@@ -4,7 +4,7 @@ Computer Science undergraduate focused on building scalable, production-grade we
 
 - 💻 **Core Languages:** C++ (Algorithms & STL), TypeScript, JavaScript
 - 🛠️ **Full-Stack Stack:** Next.js, Node.js, Express, PostgreSQL, Tailwind CSS
-- 🎯 **Active Focus:** Striver’s A2Z DSA Sheet, competitive programming, and relational backend systems.
+- 🎯 **Active Focus:** Striver’s A2Z DSA Sheet and relational backend systems.
 - 📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/rishab-kumar-jha-66b004430/) • [Email](mailto:rishabkumarjha180@gmail.com)
 
 
